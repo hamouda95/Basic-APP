@@ -6,5 +6,10 @@
   },
   "scripts": {
     "start": "vite"
-  }
+  },
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build"
+}
+
 }
